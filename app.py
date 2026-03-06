@@ -204,3 +204,4 @@ Respond clearly.
                     )
                 except Exception as e:
                     st.error(f"Gemini Error: {e}")
+
